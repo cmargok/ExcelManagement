@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cmargok.ExcelDataReader.ImportExcel", "ExcelDataReader.Cmargok.ImportExcel\Cmargok.ExcelDataReader.ImportExcel.csproj", "{B0707D02-F87A-4BC7-916B-D9948C539B22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cmargok.ClosedXML.Excel", "Cmargok.ClosedXML.Excel\Cmargok.ClosedXML.Excel.csproj", "{9FBF95CD-2E31-4340-89A5-0DFDFE2E46AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RowsProblem", "RowsProblem\RowsProblem.csproj", "{7CA0CAE6-2D3C-44A4-BAD1-304A441A43AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0707D02-F87A-4BC7-916B-D9948C539B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0707D02-F87A-4BC7-916B-D9948C539B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0707D02-F87A-4BC7-916B-D9948C539B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0707D02-F87A-4BC7-916B-D9948C539B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FBF95CD-2E31-4340-89A5-0DFDFE2E46AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBF95CD-2E31-4340-89A5-0DFDFE2E46AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBF95CD-2E31-4340-89A5-0DFDFE2E46AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBF95CD-2E31-4340-89A5-0DFDFE2E46AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA0CAE6-2D3C-44A4-BAD1-304A441A43AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA0CAE6-2D3C-44A4-BAD1-304A441A43AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA0CAE6-2D3C-44A4-BAD1-304A441A43AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA0CAE6-2D3C-44A4-BAD1-304A441A43AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5B9E645-44C8-49F6-9BF5-DD6C73DD1544}
+	EndGlobalSection
+EndGlobal
